@@ -133,7 +133,7 @@ p {
 	}
 
 	nav ul, nav:active ul { 
-
+		display:none;
 		position: absolute;
 		padding: 20px;
 		background: #fff;
